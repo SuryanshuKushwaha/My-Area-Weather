@@ -1,10 +1,11 @@
 const options = {
 	method: 'GET',
 	headers: {
-		'x-rapidapi-key': 'feaf0f49c1msh94a4ab7a06a2f69p113b81jsn95ff4d0a72c8',
+		'x-rapidapi-key': '220f94fb62msh994865576209b0bp131804jsn29ffb8a0492b',
 		'x-rapidapi-host': 'yahoo-weather5.p.rapidapi.com'
 	}
 };
+
 
 const cityInput = document.getElementById("city");
 const submit = document.getElementById("submit"); 
